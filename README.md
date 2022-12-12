@@ -8,7 +8,7 @@
 First of all, clone this repository in the folder and open it in cmd
 
 ```
-git clone https://github.com/khasanovmma/Test-Task-Django.git
+git clone https://github.com/khasanovmma/Test-task.git
 ```
 
 ## Install
